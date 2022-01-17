@@ -1,0 +1,10 @@
+.logo.navbar-brand{
+    img{
+        height: 50px;
+    }
+}
+
+.logo:hover {
+    transform: rotate(360deg);
+    transition: all 0.25s ease-in-out;
+}
